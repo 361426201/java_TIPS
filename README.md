@@ -8,7 +8,7 @@
 
 # **设计模式**
 
-[单例模式](https://blog.csdn.net/qq_33220089/article/details/104341719)
+[【设计模式】单例模式](https://blog.csdn.net/qq_33220089/article/details/104341719)
 
 [【设计模式】工厂模式：你还在使用一堆的if/else创建对象吗？](https://blog.csdn.net/qq_33220089/article/details/104717168)
 
