@@ -4,7 +4,13 @@
 
 # java框架
 
+# springboot
 
+[@SpringbootApplication注释是什么意思？](https://blog.csdn.net/qq_33220089/article/details/104197498)
+[springboot整合Log4j2（将日志输出到指定文件）](https://blog.csdn.net/qq_33220089/article/details/100226782)
+[springboot实现国际化居然可以这么简单](https://blog.csdn.net/qq_33220089/article/details/104837066)
+[springboot整合mybatis-plus看这篇文章就足够了](https://blog.csdn.net/qq_33220089/article/details/104752320)
+[springboot全局异常捕获](https://blog.csdn.net/qq_33220089/article/details/104608202)
 
 # **设计模式**
 
