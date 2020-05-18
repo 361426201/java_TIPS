@@ -22,4 +22,4 @@
 ## JDK1.8
 linux版本：[jdk-8u221-linux-x64.tar](https://pan.baidu.com/s/1S0pRTc6opIsbNbVcI-6qhQ),提取码：0u9j
 
-windows版本[jdk-8u211-windows-x64](https://pan.baidu.com/s/1bqcavP9PpanxTykeHgX1rQ),提取码：63cs
+windows版本：[jdk-8u211-windows-x64](https://pan.baidu.com/s/1bqcavP9PpanxTykeHgX1rQ),提取码：63cs
