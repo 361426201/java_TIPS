@@ -13,6 +13,8 @@
 
 [springboot全局异常捕获](https://blog.csdn.net/qq_33220089/article/details/104608202)
 
+[springboot整合rabbitMq](https://blog.csdn.net/qq_33220089/article/details/103066715)
+
 # 并发编程
 [【并发编程】java并发编程之synchronized](https://blog.csdn.net/qq_33220089/article/details/102934258)
 
