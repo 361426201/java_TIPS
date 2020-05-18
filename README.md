@@ -23,6 +23,8 @@
 
 [【并发编程】java并发编程之线程同步（CountDownLatch、CyclicBarrier）](https://blog.csdn.net/qq_33220089/article/details/102952725)
 
+[【并发编程】ThreadLocal：如何优雅的解决SimpleDateFormat多线程安全问题](https://blog.csdn.net/qq_33220089/article/details/105216878)
+
 [【并发编程】java并发编程之ReentrantReadWriteLock读写锁](https://blog.csdn.net/qq_33220089/article/details/102754036)
 
 [【并发编程】面试官：有没有比读写锁更快的锁？](https://blog.csdn.net/qq_33220089/article/details/105173632)
@@ -49,6 +51,8 @@
 [springcloud（五）远程调用Feign(含源码跟踪)](https://blog.csdn.net/qq_33220089/article/details/103306567)
 
 [Feign服务调用出现LinkedHashMap can not be cast to xxx](https://blog.csdn.net/qq_33220089/article/details/101773728)
+
+[springBoot(cloud)读取配置文件的先后顺序](https://blog.csdn.net/qq_33220089/article/details/100122785)
 
 
 # **设计模式**
