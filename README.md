@@ -26,7 +26,7 @@
 
 [【并发编程】java并发编程之ReentrantReadWriteLock读写锁](https://blog.csdn.net/qq_33220089/article/details/102754036)
 
-[【并发编程】面试官：有没有比读写锁更快的锁？](https://blog.csdn.net/qq_33220089/article/details/105173632)
+[【并发编程】面试官：有没有比读写锁更快的锁？](https://mp.weixin.qq.com/s/Z4pF-vEYVBd1Gguazzyjyg)
 
 # 数据结构与算法
 [【数据结构与算法】常见的三种排序（冒泡排序、插入排序、选择排序）](https://blog.csdn.net/qq_33220089/article/details/103580778)
