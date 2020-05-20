@@ -76,6 +76,11 @@ windows版本：[jdk-8u211-windows-x64](https://pan.baidu.com/s/1bqcavP9PpanxTyk
 
 
 # About  me
+个人博客：[http://ymy.xiaowei.site/](http://ymy.xiaowei.site/)
 
+CSND:[https://blog.csdn.net/qq_33220089](https://blog.csdn.net/qq_33220089)
+
+微信公众号：
+![qrcode_for_gh_de1f24187ed3_344](C:\Users\Administrator\Downloads\qrcode_for_gh_de1f24187ed3_344.jpg)
 
 
