@@ -81,6 +81,6 @@ windows版本：[jdk-8u211-windows-x64](https://pan.baidu.com/s/1bqcavP9PpanxTyk
 CSND：[https://blog.csdn.net/qq_33220089](https://blog.csdn.net/qq_33220089)
 
 微信公众号：
-![image](https://github.com/361426201/java_TIPS/blob/master/imges/qrcode_for_gh_de1f24187ed3_344.jpg)
+![image](https://github.com/361426201/java_TIPS/blob/master/imges/qrcode.jpg)
 
 
