@@ -16,7 +16,7 @@
 [springboot整合rabbitMq](https://blog.csdn.net/qq_33220089/article/details/103066715)
 
 # 并发编程
-[【并发编程】java并发编程之synchronized](https://blog.csdn.net/qq_33220089/article/details/102934258)
+[【并发编程】java并发编程之synchronized](https://mp.weixin.qq.com/s/uJ5Z924-GoWsWM3k_cKgKA)
 
 [【并发编程】java并发编程之死锁](https://blog.csdn.net/qq_33220089/article/details/102954799)
 
