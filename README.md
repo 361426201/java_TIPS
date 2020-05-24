@@ -84,4 +84,6 @@ CSND：[https://blog.csdn.net/qq_33220089](https://blog.csdn.net/qq_33220089)
 
 ![image](https://github.com/361426201/java_TIPS/blob/master/imges/qrcode.jpg)
 
+关注微信公众号回复：java 关键字，立刻领取大量的java学习资料以及面试试题，还在等什么，赶紧关注我吧
+
 
