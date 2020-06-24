@@ -62,9 +62,13 @@
 
 [【设计模式】建造者模式：你创建对象的方式有它丝滑吗？](https://blog.csdn.net/qq_33220089/article/details/105052003)
 
+[【设计模式】原型模式：如何快速的克隆出一个对象？](https://mp.weixin.qq.com/s/6BpPO8PAdSQmB2BJGPbw9Q)
+
 [【设计模式】策略模式：我是一个有谋略的类](https://mp.weixin.qq.com/s/1cRWHRAqaqQqKFcHXs30Ng)
 
+[「设计模式」观察者模式：一个注册功能也能使用到设计模式？](https://mp.weixin.qq.com/s/irz-Rws-dSngFkShjyEaow)
 
+[【设计模式】门面模式：接口就像门面，一眼就能看出你的代码水平](https://mp.weixin.qq.com/s/CHd6VBCRThJPBy2rVG7ZSQ)
 
 # 开发工具
 ## JDK1.8
