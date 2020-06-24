@@ -72,6 +72,8 @@ linux版本：[jdk-8u221-linux-x64.tar](https://pan.baidu.com/s/1S0pRTc6opIsbNbV
 
 windows版本：[jdk-8u211-windows-x64](https://pan.baidu.com/s/1bqcavP9PpanxTykeHgX1rQ),提取码：63cs
 
+# Redis
+[redisson官方文档](https://github.com/redisson/redisson/wiki/%E7%9B%AE%E5%BD%95)
 
 
 
